@@ -1,13 +1,13 @@
 <h1 align="center">
-  <a href="https://github.com/mtobeiyf/vuepress-homepage" title="Homepage">
+  <a href="https://jihea.kim" title="Homepage">
     <img src="https://user-images.githubusercontent.com/5097752/39163721-4c79012c-47ae-11e8-842b-2af72f69cc2c.jpg" width="300px" alt="">
   </a>
   <br />
-  Your Awesome Homepage
+  Claire Jihea Kim
 </h1>
 
 <p align="center">
-  Build your site like a Pro :v:
+  Software engineer
 </p>
 
 <p align="center">
@@ -43,8 +43,8 @@ Make sure you have [Node.js](https://nodejs.org) and [yarn](https://yarnpkg.com)
 
 ```bash
 # Clone the repo
-$ git clone https://github.com/mtobeiyf/vuepress-homepage.git
-$ cd vuepress-homepage
+$ git clone https://github.com/jyekimi/jyekimi.github.com.git
+$ cd jyekimi.github.com
 
 # Install dependencies
 $ yarn  # or npm install
